@@ -462,7 +462,7 @@ color: #404BBF;
     padding-left: 16px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 2;
     letter-spacing: 0.04em;
     color: #ffffff;
 }
@@ -473,6 +473,7 @@ color: #404BBF;
 }
 
 .subscribe-btn {
+    min-width: 165px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -483,6 +484,7 @@ color: #404BBF;
 
 .subscribe-icon {
     fill: #ffffff;
+    margin-left: 16px;
 }
 
 /* modal */
