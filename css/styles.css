@@ -679,7 +679,7 @@ color: #404BBF;
     border-radius: 2px;
     cursor: pointer;
     margin-right: 8px;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     background-color: transparent;
